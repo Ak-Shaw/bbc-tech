@@ -1,0 +1,1 @@
+Mini clone of technology page of BBC New website(as per 19th of January 2016).
